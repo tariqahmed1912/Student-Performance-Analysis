@@ -5,9 +5,9 @@ Developed a website to automate student performance analysis based on various ev
 Each faculty is provided access to only upload/edit the marks of their students, ie. the classes they're handling.  
 
 ## Main dashboard
-<u>Profile</u> - Change email ID and password of user.
-<u>Home page</u> - List of classes for which marks were uploaded. 
-<u>Upload/Edit Grades</u> - List of classes assigned to the facutly. Provides link to add students grades.
+- Profile - Change email ID and password of user.
+- Home page - List of classes for which marks were uploaded. 
+- Upload/Edit Grades - List of classes assigned to the facutly. Provides link to add students grades.
 
 ![](img/main.gif)
 
