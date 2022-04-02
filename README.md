@@ -8,5 +8,7 @@ Developed a website to automate student performance analysis based on various ev
 
 ![](img/edit_marks.gif)
 
+![](img/view_co.gif)
+
 ![](img/ceg_dashboard.gif)
 
