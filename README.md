@@ -35,7 +35,7 @@ The Course Expert Group (CEG) or course coordinator can do the following:
 - Add the marks distrbution for internal and external exams.
 - Upload question papers
 - Add Program articulation matrix required for analysis calculation 
-- View performance comparison graphs between classes. 
+- View performance comparison graphs between classes. <br>
 ![](img/ceg.gif)
 
 
