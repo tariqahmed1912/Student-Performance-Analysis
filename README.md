@@ -30,8 +30,12 @@ Each faculty is provided access to only upload/edit the marks of their students,
 ![](img/view_co.gif)
 
 ## CEG dashboard
-- The CEG can view the reason for change in students marks made by a faculty.
-- They can add the marks distrbution for internal and external exams, upload question papers, program articulation matrix required for analysis calculation, and view performance comparison graphs between classes. 
+The Course Expert Group (CEG) or course coordinator can do the following:
+- View the reason for change in students marks made by a faculty.
+- Add the marks distrbution for internal and external exams.
+- Upload question papers
+- Add Program articulation matrix required for analysis calculation 
+- View performance comparison graphs between classes. 
 ![](img/ceg.gif)
 
 
