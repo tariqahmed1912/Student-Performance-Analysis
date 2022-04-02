@@ -17,16 +17,19 @@ Each faculty is provided access to only upload/edit the marks of their students,
 - There are two options for saving the data: `Save` and `Submit`
     - Save: The data will be saved and can be edited.
     - Submit: The data will be saved, but not editable. Generally used when faculty are given deadline to upload the finalized marks. 
+
 ![](img/add_marks.gif)
 
 ## Edit students marks
 - As stated previously, once a faculty uploads students marks and clicks `Submit`, they do not have permissions to make any more changes to those marks.
 - The edit marks page is provided in case a faculty submits the marks, but later realizes an error in the uploaded marks. The difference here, however, is that they have to provide a reason for this change. The change and the reason is recorded, which can be later be viewed by the HOD or CEG (Course Examiner).      
+
 ![](img/edit_marks.gif)
 
 ## View CO table
 - The main purpose of the website is to automate the student performance analysis by calculating course outcome and program outcome attained by each class per course.
 - The procedure to calculate CO and PO is provided by the National Board of Accreditation, India. 
+
 ![](img/view_co.gif)
 
 ## CEG dashboard
@@ -35,7 +38,8 @@ The Course Expert Group (CEG) or course coordinator can do the following:
 - Add the marks distrbution for internal and external exams.
 - Upload question papers
 - Add Program articulation matrix required for analysis calculation 
-- View performance comparison graphs between classes. <br>
+- View performance comparison graphs between classes.
+
 ![](img/ceg.gif)
 
 
